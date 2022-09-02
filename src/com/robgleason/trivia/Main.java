@@ -20,12 +20,16 @@ public class Main {
                 "d) Mars");
         String question2 = scan.nextLine();
 
-        System.out.println("3. WHat is the rarest blood type?\n" +
+        System.out.println("3. What is the rarest blood type?\n" +
                 "a) O\n" +
                 "b) A\n" +
                 "c) B\n" +
                 "d) AB-Negative");
 
+        System.out.println("4. Which one of these character is friends with Harry Potter?\n" +
+                "a) Ron Weasley\n" +
+                "b) Hermione Granger\n" +
+                "c) Draco Malfoy");
 
     }
 }
