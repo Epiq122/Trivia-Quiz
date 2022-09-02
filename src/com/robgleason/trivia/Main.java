@@ -19,6 +19,7 @@ public class Main {
                 "c) Mercury\n" +
                 "d) Mars");
         String question2 = scan.nextLine();
+        
 
     }
 }
